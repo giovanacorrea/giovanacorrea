@@ -7,7 +7,7 @@
 ##
 
 **Sobre mim**
--   👨‍🎓  Estudante de Ciência da computação, atualmente cursando o 3° semestre
+-   👨‍🎓  Estudante de Ciência da Computação, atualmente cursando o 3° semestre
 - 🌱 Iniciante em programação competitiva
 - 📚 Estudando Python nas horas vagas
   
