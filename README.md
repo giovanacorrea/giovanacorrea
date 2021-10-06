@@ -1,6 +1,4 @@
 
-![b](https://64.media.tumblr.com/bd4c2c7ff27ff98233abed3c58be1809/4f6b9a2f9bb10054-b0/s640x960/c3c9df249fc6926cb834132679d7a038b0211112.gif)
-
 ### Olá, Giovana aqui! 👋
 
 **Sobre mim**
@@ -20,4 +18,5 @@
 - <a href="mailto:giovanacorreadebarros@gmail.com">E-mail</a>
 - <a href="https://instagram.com/giossvana">Instagram Pessoal</a>
 
+![b](https://64.media.tumblr.com/bd4c2c7ff27ff98233abed3c58be1809/4f6b9a2f9bb10054-b0/s640x960/c3c9df249fc6926cb834132679d7a038b0211112.gif)
 
