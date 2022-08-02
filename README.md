@@ -7,7 +7,8 @@
 ##
 
 **Sobre mim**
--  👨‍🎓  Estudante de Ciência da Computação
+
+👨‍🎓  Estudante de Ciência da Computação
   
 </div>
 
